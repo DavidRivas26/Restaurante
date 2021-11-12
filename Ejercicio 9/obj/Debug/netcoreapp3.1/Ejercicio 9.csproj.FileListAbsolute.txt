@@ -1,0 +1,18 @@
+C:\Users\rafae\source\repos\Ejercicio 9\Ejercicio 9\bin\Debug\netcoreapp3.1\Ejercicio 9.exe
+C:\Users\rafae\source\repos\Ejercicio 9\Ejercicio 9\bin\Debug\netcoreapp3.1\Ejercicio 9.deps.json
+C:\Users\rafae\source\repos\Ejercicio 9\Ejercicio 9\bin\Debug\netcoreapp3.1\Ejercicio 9.runtimeconfig.json
+C:\Users\rafae\source\repos\Ejercicio 9\Ejercicio 9\bin\Debug\netcoreapp3.1\Ejercicio 9.runtimeconfig.dev.json
+C:\Users\rafae\source\repos\Ejercicio 9\Ejercicio 9\bin\Debug\netcoreapp3.1\Ejercicio 9.dll
+C:\Users\rafae\source\repos\Ejercicio 9\Ejercicio 9\bin\Debug\netcoreapp3.1\Ejercicio 9.pdb
+C:\Users\rafae\source\repos\Ejercicio 9\Ejercicio 9\bin\Debug\netcoreapp3.1\Logica.dll
+C:\Users\rafae\source\repos\Ejercicio 9\Ejercicio 9\bin\Debug\netcoreapp3.1\Logica.pdb
+C:\Users\rafae\source\repos\Ejercicio 9\Ejercicio 9\obj\Debug\netcoreapp3.1\Ejercicio 9.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\Ejercicio 9\Ejercicio 9\obj\Debug\netcoreapp3.1\Ejercicio_9.FrmMesa.resources
+C:\Users\rafae\source\repos\Ejercicio 9\Ejercicio 9\obj\Debug\netcoreapp3.1\Ejercicio 9.csproj.GenerateResource.cache
+C:\Users\rafae\source\repos\Ejercicio 9\Ejercicio 9\obj\Debug\netcoreapp3.1\Ejercicio 9.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\Ejercicio 9\Ejercicio 9\obj\Debug\netcoreapp3.1\Ejercicio 9.AssemblyInfo.cs
+C:\Users\rafae\source\repos\Ejercicio 9\Ejercicio 9\obj\Debug\netcoreapp3.1\Ejercicio 9.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Ejercicio 9\Ejercicio 9\obj\Debug\netcoreapp3.1\Ejercicio 9.csproj.CopyComplete
+C:\Users\rafae\source\repos\Ejercicio 9\Ejercicio 9\obj\Debug\netcoreapp3.1\Ejercicio 9.dll
+C:\Users\rafae\source\repos\Ejercicio 9\Ejercicio 9\obj\Debug\netcoreapp3.1\Ejercicio 9.pdb
+C:\Users\rafae\source\repos\Ejercicio 9\Ejercicio 9\obj\Debug\netcoreapp3.1\Ejercicio 9.genruntimeconfig.cache

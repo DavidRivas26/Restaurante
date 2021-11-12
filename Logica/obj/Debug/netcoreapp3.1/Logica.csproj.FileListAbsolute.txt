@@ -1,0 +1,9 @@
+C:\Users\rafae\source\repos\Ejercicio 9\Logica\bin\Debug\netcoreapp3.1\Logica.deps.json
+C:\Users\rafae\source\repos\Ejercicio 9\Logica\bin\Debug\netcoreapp3.1\Logica.dll
+C:\Users\rafae\source\repos\Ejercicio 9\Logica\bin\Debug\netcoreapp3.1\Logica.pdb
+C:\Users\rafae\source\repos\Ejercicio 9\Logica\obj\Debug\netcoreapp3.1\Logica.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\Ejercicio 9\Logica\obj\Debug\netcoreapp3.1\Logica.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\Ejercicio 9\Logica\obj\Debug\netcoreapp3.1\Logica.AssemblyInfo.cs
+C:\Users\rafae\source\repos\Ejercicio 9\Logica\obj\Debug\netcoreapp3.1\Logica.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Ejercicio 9\Logica\obj\Debug\netcoreapp3.1\Logica.dll
+C:\Users\rafae\source\repos\Ejercicio 9\Logica\obj\Debug\netcoreapp3.1\Logica.pdb
