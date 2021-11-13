@@ -4,7 +4,17 @@ using System.Text;
 
 namespace Logica
 {
-    class Singleton
+    public sealed class Singleton
     {
+
+        public List<Orden> ordenes { get; set; } = new List<Orden>();
+
+        public static Singleton singleton { get; } = new Singleton(); 
+
+        private Singleton()
+        {
+
+        }
+
     }
 }

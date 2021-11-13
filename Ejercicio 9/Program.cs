@@ -17,7 +17,7 @@ namespace Ejercicio_9
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmMesa());
+            Application.Run(FrmMesa.Singleton);
         }
     }
 }

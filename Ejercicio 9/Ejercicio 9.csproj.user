@@ -4,5 +4,14 @@
     <Compile Update="FrmMesa.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="FrmOrden.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmOrdenAgregar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPersona.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

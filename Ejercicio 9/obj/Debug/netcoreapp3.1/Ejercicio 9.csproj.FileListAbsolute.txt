@@ -16,3 +16,6 @@ C:\Users\rafae\source\repos\Ejercicio 9\Ejercicio 9\obj\Debug\netcoreapp3.1\Ejer
 C:\Users\rafae\source\repos\Ejercicio 9\Ejercicio 9\obj\Debug\netcoreapp3.1\Ejercicio 9.dll
 C:\Users\rafae\source\repos\Ejercicio 9\Ejercicio 9\obj\Debug\netcoreapp3.1\Ejercicio 9.pdb
 C:\Users\rafae\source\repos\Ejercicio 9\Ejercicio 9\obj\Debug\netcoreapp3.1\Ejercicio 9.genruntimeconfig.cache
+C:\Users\rafae\source\repos\Ejercicio 9\Ejercicio 9\obj\Debug\netcoreapp3.1\Ejercicio_9.FrmOrden.resources
+C:\Users\rafae\source\repos\Ejercicio 9\Ejercicio 9\obj\Debug\netcoreapp3.1\Ejercicio_9.FrmPersona.resources
+C:\Users\rafae\source\repos\Ejercicio 9\Ejercicio 9\obj\Debug\netcoreapp3.1\Ejercicio_9.FrmOrdenAgregar.resources
